@@ -1,0 +1,1 @@
+1. Adding firebase to android, ios ,web 
